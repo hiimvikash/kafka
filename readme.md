@@ -8,9 +8,9 @@ In apps like **Uber** (for drivers) and **Zomato** (for delivery agents), one of
 - The restaurant or driver should also get **live updates** about order pickup and drop-off.
 
 If this tracking is **delayed, inaccurate, or slow**, it leads to:
-❌ A bad customer experience.  
-❌ Drivers missing important updates.  
-❌ Inefficient route optimization.  
+- ❌ A bad customer experience.  
+- ❌ Drivers missing important updates.  
+- ❌ Inefficient route optimization.  
 
 ## **Why is This Problem Difficult?**
 
